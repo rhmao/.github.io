@@ -15,6 +15,12 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 My main research interests lie in **psycholinguistics** and **experimental syntax and semantics**.  
 I also have research experience in **developmental psychology**, focusing on **children’s language development** and **executive functioning**.
 
+## Interests
+- Psycholinguistics
+- Experimental syntax
+- Sentence processing
+- Language development
+
 ---
 
 ## Research Output
