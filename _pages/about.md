@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Research Output
+# Research Output
 
 ### Journal Articles
 
@@ -39,5 +39,19 @@ redirect_from:
 - **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *XL Workshop* [Internal Presentation].
 
 - **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024). The Discourse Function Explains "Islands". *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
+
+# Teaching
+
+- Advanced Experimental Syntax (Master level; Co-taught with Dr. Anne Abeillé; 2024 Spring)
+- Advanced Experimental Syntax (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
+
+## Awards and Grants
+
+- **IDEX PhD Fellowship**, Université Paris Cité — 78,000 € (2021–2024)
+- **Smarts-Up Mobility Grant**, Université Paris Cité — 1,000 € (2023)
+- **Laboratoire de Linguistique Formelle Mobility Grant**, Université Paris Cité — 1,500 € (2022)
+- **Labex EFL Mobility Grant**, Université Paris Cité — 3,500 € (2022)
+- **University First Class Scholarship** — (2016–2017)
+- **University Second Class Scholarship** — (2014–2015)
 
 
