@@ -47,10 +47,10 @@ redirect_from:
 
 ## Awards and Grants
 
-- **IDEX PhD Fellowship**, Université Paris Cité — 78,000 € (2021–2024)
-- **Smarts-Up Mobility Grant**, Université Paris Cité — 1,000 € (2023)
-- **Laboratoire de Linguistique Formelle Mobility Grant**, Université Paris Cité — 1,500 € (2022)
-- **Labex EFL Mobility Grant**, Université Paris Cité — 3,500 € (2022)
+- **IDEX PhD Fellowship**, Université Paris Cité — *€78,000*  (2021–2024)
+- **Smarts-Up Mobility Grant**, Université Paris Cité — *€1,000* (2023)
+- **Laboratoire de Linguistique Formelle Mobility Grant**, Université Paris Cité — *€1,500* (2022)
+- **Labex EFL Mobility Grant**, Université Paris Cité — *€3,500* (2022)
 - **University First Class Scholarship** — (2016–2017)
 - **University Second Class Scholarship** — (2014–2015)
 
