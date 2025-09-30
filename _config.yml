@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name      : "Ruihua Mao"
-  avatar    : "photo.png"
+  avatar    : "images/photo.png"
   bio       : "Psycholinguistics, Experimental syntax"
   location  : "Paris France"
   email     : "ruihua.mao@etu.u-paris.fr; ruihuamauri@gmail.com"
