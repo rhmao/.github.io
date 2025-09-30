@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-# Research Output
+## About Me
+
+I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*, supervised by **Dr. Anne Abeillé** and **Dr. Barbara Hemforth** (*Université Paris Cité*), and **Dr. Edward Gibson** (*MIT*).
+
+My main research interests lie in **psycholinguistics** and **experimental syntax and semantics**.  
+I also have research experience in **developmental psychology**, focusing on **children’s language development** and **executive functioning**.
+
+---
+
+## Research Output
 
 ### Journal Articles
 
@@ -40,18 +49,20 @@ redirect_from:
 
 - **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024). The Discourse Function Explains "Islands". *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
 
-# Teaching
+---
 
-- Advanced Experimental Syntax (Master level; Co-taught with Dr. Anne Abeillé; 2024 Spring)
-- Advanced Experimental Syntax (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
+## Teaching
+
+- **Advanced Experimental Syntax** (Master level; Co-taught with Dr. Anne Abeillé; 2024 Spring)  
+- **Advanced Experimental Syntax** (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
+
+---
 
 ## Awards and Grants
 
-- **IDEX PhD Fellowship**, Université Paris Cité — *€78,000*  (2021–2024)
-- **Smarts-Up Mobility Grant**, Université Paris Cité — *€1,000* (2023)
-- **Laboratoire de Linguistique Formelle Mobility Grant**, Université Paris Cité — *€1,500* (2022)
-- **Labex EFL Mobility Grant**, Université Paris Cité — *€3,500* (2022)
-- **University First Class Scholarship** — (2016–2017)
+- **IDEX PhD Fellowship**, Université Paris Cité — *€78,000*  (2021–2024)  
+- **Smarts-Up Mobility Grant**, Université Paris Cité — *€1,000* (2023)  
+- **Laboratoire de Linguistique Formelle Mobility Grant**, Université Paris Cité — *€1,500* (2022)  
+- **Labex EFL Mobility Grant**, Université Paris Cité — *€3,500* (2022)  
+- **University First Class Scholarship** — (2016–2017)  
 - **University Second Class Scholarship** — (2014–2015)
-
-
