@@ -10,10 +10,8 @@ redirect_from:
 
 ## About Me
 
-I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*, supervised by **Dr. Anne Abeillé** and **Dr. Barbara Hemforth** (*Université Paris Cité*), and **Dr. Edward Gibson** (*MIT*).
+I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*, supervised by [**Dr. Anne Abeillé**] (http://www.llf.cnrs.fr/fr/Gens/Abeille) and **Dr. Barbara Hemforth** (*Université Paris Cité*), and **Dr. Edward Gibson** (*MIT*).
 
-My main research interests lie in **psycholinguistics** and **experimental syntax and semantics**.  
-I also have research experience in **developmental psychology**, focusing on **children’s language development** and **executive functioning**.
 
 ## Interests
 - Psycholinguistics
