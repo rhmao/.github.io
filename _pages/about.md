@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*, supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (*Université Paris Cité*), [**Dr. Barbara Hemforth**](https://llf.cnrs.fr/fr/Gens/Hemforth) (*Université Paris Cité*), and [**Dr. Edward Gibson**](https://web.mit.edu/egibson/www/) (*MIT*).
+I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*, supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](https://llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité*), and [**Dr. Edward Gibson**](https://web.mit.edu/egibson/www/) (Massachusetts Institute of Technology).
 
 
 
