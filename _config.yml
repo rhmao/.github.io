@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name      : "Ruihua Mao"
   avatar    : "images/photo.png"
-  bio       : "Psycholinguistics, Experimental syntax"
+  bio       : "Psycholinguistics and Experimental syntax"
   location  : "Paris France"
-  email     : "ruihua.mao@etu.u-paris.fr; ruihuamauri@gmail.com"
+  email     : "ruihua.mao@etu.u-paris.fr"
   researchgate : "https://www.researchgate.net/profile/Ruihua-Mao-4?ev=hdr_xprf"
   github    : "rhmao"
 
