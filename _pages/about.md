@@ -20,7 +20,7 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 <br><br>
 
 <h2 id="research-output">Research Output</h2> 
-
+<div class="journal-list">
 ## Journal Articles
 
 - **Ruihua Mao**, Sihan Chen, Edward Gibson (2024).  
@@ -34,7 +34,7 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 - **Ruihua Mao**, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
   Extraction from subjects and objects in Chinese. (In preparation)
 
-
+</div>
 ## Conference Presentations
 
 - Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022).  
