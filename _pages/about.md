@@ -78,7 +78,7 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 1
 
 <br>
 
-## Awards and Grants
+<h2 id="awards">Awards and Grants</h2>
 
 - **IDEX PhD Fellowship**, Université Paris Cité — *€78,000* (2021–2024)  
 - **Smarts-Up Mobility Grant**, Université Paris Cité — *€1,000* (2023)  
