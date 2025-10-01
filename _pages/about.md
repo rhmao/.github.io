@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+## About Me {#about-me}
 
 I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*, supervised by [**Dr. Anne Abeillé**](<http://www.llf.cnrs.fr/fr/Gens/Abeille>) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité), and [**Dr. Edward Gibson**](https://tedlab.mit.edu/ted.html) (Massachusetts Institute of Technology).
 
 
 
-## Interests
+### Research Interests
 • Psycholinguistics • Experimental syntax • Information theory • Language development
 
 
@@ -25,7 +25,7 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 
 ---
 
-## Research Output
+## Research Output {#research-output}
 
 ### Journal Articles
 
@@ -59,14 +59,14 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 
 ---
 
-## Teaching
+## Teaching {#teaching}
 
 - **Advanced Experimental Syntax** (Master level; Co-taught with Dr. Anne Abeillé; 2024 Spring)  
 - **Advanced Experimental Syntax** (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
 
 ---
 
-## Awards and Grants
+## Awards and Grants {#awards}
 
 - **IDEX PhD Fellowship**, Université Paris Cité — *€78,000*  (2021–2024)  
 - **Smarts-Up Mobility Grant**, Université Paris Cité — *€1,000* (2023)  
