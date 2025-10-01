@@ -15,26 +15,29 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 
 
 ### Research Interests
-• Psycholinguistics • Experimental syntax • Information theory • Language development
+• Psycholinguistics  • Experimental syntax  • Information theory  • Language development
 ---
 <br><br>
 
 <h2 id="research-output">Research Output</h2> 
-### Journal Articles
+
+### 📚 Journal Articles
 
 <ul class="journal-list">
 <li><strong>Ruihua Mao</strong>, Sihan Chen, Edward Gibson (2024).  
-Decoding the Implausible...  
-<em>Memory and Cognition</em> (In press). [Manuscript]</li>
+Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model.  
+<em>Memory and Cognition</em> (In press). <a href="https://drive.google.com/file/d/1WIAd69J_L-6Tr5ymlA-gOrsuk2xQnLTR/view?usp=sharing">[Manuscript]</a></li>
 
 <li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
-How Strong are “Strong” Islands? ...</li>
+How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses.  
+<em>Cognition</em> (Under Revision). <a href="https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link">[Manuscript]</a></li>
 
 <li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
 Extraction from subjects and objects in Chinese. (In preparation)</li>
 </ul>
 
-## Conference Presentations
+
+### 🎤 Conference Presentations
 
 - Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022).  
   Acceptability of extraction out of English adjunct clauses: the role of topicalization [Poster Presentation].  
@@ -55,19 +58,17 @@ Extraction from subjects and objects in Chinese. (In preparation)</li>
 - **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024).  
   The Discourse Function Explains "Islands".  
   *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
----
-<br>
-<h2 id="teaching">Teaching</h2>
+
+
+## Teaching
 
 - **Advanced Experimental Syntax** (Master level; Co-taught with Dr. Anne Abeillé; 2024 Spring)  
 - **Advanced Experimental Syntax** (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
 
----
-<br>
 
-<h2 id="awards">Awards and Grants</h2>
+## Awards and Grants
 
-- **IDEX PhD Fellowship**, Université Paris Cité — *€78,000*  (2021–2024)  
+- **IDEX PhD Fellowship**, Université Paris Cité — *€78,000* (2021–2024)  
 - **Smarts-Up Mobility Grant**, Université Paris Cité — *€1,000* (2023)  
 - **Laboratoire de Linguistique Formelle Mobility Grant**, Université Paris Cité — *€1,500* (2022)  
 - **Labex EFL Mobility Grant**, Université Paris Cité — *€3,500* (2022)  
