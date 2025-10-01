@@ -29,7 +29,6 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 1
 - **Birmingham Statistics for Linguistics Summer School**. Birmingham, UK *(Jul 2022)*
 - **The Python4NLP Summer School**. Nancy, France *(May 2022)*
 
-</br>
 
 ### Contact
 
@@ -37,7 +36,7 @@ For research discussions or collaboration inquiries, please contact me at [ruihu
 
 <div style="background-color: #f5f0e6; padding: 12px; border-radius: 8px; margin-top: 10px;">
   <p style="color: brown; font-weight: bold; margin: 0;">
-    I am actively seeking postdoctoral, lecturer, or assistant professor positions in psycholinguistics or experimental linguistics.<br>
+    I am actively seeking postdoctoral, lecturer, or assistant professor positions in psycholinguistics or experimental linguistics.
     If you know of any relevant opportunities, I would be very grateful to hear from you.
   </p>
 </div>
