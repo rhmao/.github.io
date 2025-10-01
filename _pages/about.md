@@ -17,7 +17,7 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 ### Research Interests
 • Psycholinguistics  • Experimental syntax  • Information theory  • Language development
 ---
-<br><br>
+<br><br><br><br>
 
 <h2 id="research-output">Research Output</h2> 
 
@@ -35,7 +35,7 @@ How Strong are “Strong” Islands? Discourse constraints best explain long-dis
 <li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
 Extraction from subjects and objects in Chinese. (In preparation)</li>
 </ul>
-
+<br>
 
 ### 🎤 Conference Presentations
 
@@ -59,13 +59,13 @@ Extraction from subjects and objects in Chinese. (In preparation)</li>
   The Discourse Function Explains "Islands".  
   *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
 
-
+<br><br><br>
 ## Teaching
 
 - **Advanced Experimental Syntax** (Master level; Co-taught with Dr. Anne Abeillé; 2024 Spring)  
 - **Advanced Experimental Syntax** (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
 
-
+<br>
 ## Awards and Grants
 
 - **IDEX PhD Fellowship**, Université Paris Cité — *€78,000* (2021–2024)  
@@ -74,4 +74,3 @@ Extraction from subjects and objects in Chinese. (In preparation)</li>
 - **Labex EFL Mobility Grant**, Université Paris Cité — *€3,500* (2022)  
 - **University First Class Scholarship** — (2016–2017)  
 - **University Second Class Scholarship** — (2014–2015)
-# trigger rebuild 2025-10-01
