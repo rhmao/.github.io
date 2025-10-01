@@ -34,11 +34,12 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 1
 ### Contact
 
 For research discussions or collaboration inquiries, please contact me at [ruihua.mao@etu.u-paris.fr](mailto:ruihua.mao@etu.u-paris.fr) or [ruihuamauri@gmail.com](mailto:ruihuamauri@gmail.com).
-<div style="background-color: #f5f0e6; padding: 12px; border-radius: 8px;">
-<span style="color: brown; font-weight: bold;">
-I am actively seeking postdoctoral, lecturer, or assistant professor positions in psycholinguistics or experimental linguistics.  
-If you know of any relevant opportunities, I would be very grateful to hear from you. <br>
-<br>
+
+<div style="background-color: #f5f0e6; padding: 12px; border-radius: 8px; margin-top: 10px;">
+  <p style="color: brown; font-weight: bold; margin: 0;">
+    I am actively seeking postdoctoral, lecturer, or assistant professor positions in psycholinguistics or experimental linguistics.<br>
+    If you know of any relevant opportunities, I would be very grateful to hear from you.
+  </p>
 </div>
 
 
