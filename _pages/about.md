@@ -24,40 +24,34 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 ### 📚 Journal Articles
 
 <ul class="journal-list">
-<li><strong>Ruihua Mao</strong>, Sihan Chen, Edward Gibson (2024).  
-Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model.  
-<em>Memory and Cognition</em> (In press). <a href="https://drive.google.com/file/d/1WIAd69J_L-6Tr5ymlA-gOrsuk2xQnLTR/view?usp=sharing">[Manuscript]</a></li>
+<li><strong>Ruihua Mao</strong>, Sihan Chen, Edward Gibson (2024). Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model. <em>Memory and Cognition</em> (In press). <a href="https://drive.google.com/file/d/1WIAd69J_L-6Tr5ymlA-gOrsuk2xQnLTR/view?usp=sharing">[Manuscript]</a></li>
 
-<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
-How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses.  
-<em>Cognition</em> (Under Revision). <a href="https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link">[Manuscript]</a></li>
+<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses. <em>Cognition</em> (Under Revision). <a href="https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link">[Manuscript]</a></li>
 
-<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
-Extraction from subjects and objects in Chinese. (In preparation)</li>
+<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). Extraction from subjects and objects in Chinese. (In preparation)</li>
 </ul>
 <br>
 
 ### 🎤 Conference Presentations
 
-- Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022).  
-  Acceptability of extraction out of English adjunct clauses: the role of topicalization [Poster Presentation].  
-  *Proceedings of the 35th Annual Conference on Human Sentence Processing*.
+- Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022). Acceptability of extraction out of English adjunct clauses: the role of topicalization. *the 35th Annual Conference on Human Sentence Processing*, UC Santa Cruz, US. [Poster Presentation].
 
-- **Ruihua Mao**, Edward Gibson, Barbara Hemforth, Anne Abeillé (2022).  
-  Extraction out of Mandarin and English if-adjunct clauses: the role of topicalization [Poster Presentation].  
-  *Proceedings of the 28th Architectures and Mechanisms for Language Processing (AMLaP)*.
+- **Ruihua Mao**, Edward Gibson, Barbara Hemforth, Anne Abeillé (2022). Extraction out of Mandarin and English if-adjunct clauses: the role of topicalization. *the 28th Architectures and Mechanisms for Language Processing (AMLaP)*, University of York, UK. [Poster Presentation].
 
-- **Ruihua Mao** (2022).  
-  Testing extraction (out) of subjects and objects in Mandarin Relative Clauses [Oral Talk].  
-  *Proceedings of Linguistic Evidence 2022*.
+- **Ruihua Mao** (2022). Testing extraction (out) of subjects and objects in Mandarin Relative Clauses. *Linguistic Evidence 2022*, Université Paris Cité, France. [Oral Talk].
+  
+- **Ruihua Mao**, Edward Gibson, Barbara Hemforth, Anne Abeillé (2022). Topicalization out of English and Mandarin if-clauses and that-clauses. *ExLing 2022 Paris conference*, Université Paris Cité, France. [Poster Presentation]
 
-- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2023).  
-  An empirical investigation of Mandarin subject island.  
-  *Proceedings of the 29th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2023). An empirical investigation of Mandarin subject island. *the 29th Architectures and Mechanisms for Language Processing (AMLaP)*, Basque Center on Cognition, Brain and Language, Spain. [Poster].
+  
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2023). Extraction out of Mandarin Clauses: Topic vs. Focus. *AMLaP Asia*, Chinese University of Hong Kong, Hong Kong.[Poster].
 
-- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024).  
-  The Discourse Function Explains "Islands".  
-  *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
+- **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *AMLaP Asia*, Chinese University of Hong Kong, Hong Kong.[Poster].
+  
+- **Ruihua Mao**, Sihan Chen, Edward Gibson (2023). How do Mandarin Natives interpret implausible sentences. *XL Workshop*, Laboratoire de Linguistique Formelle, Université Paris Cité.[Internal Presentation].
+
+- **Ruihua Mao**, Barbara Hemforth, Anne Abeillé (2024). The Discourse Function Explains "Islands". *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
+  
 
 <br><br><br>
 ## Teaching
@@ -66,6 +60,7 @@ Extraction from subjects and objects in Chinese. (In preparation)</li>
 - **Advanced Experimental Syntax** (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
 
 <br>
+
 ## Awards and Grants
 
 - **IDEX PhD Fellowship**, Université Paris Cité — *€78,000* (2021–2024)  
