@@ -30,14 +30,14 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 
 ### Journal Articles
 
-<div class="publication">
+
 - **Ruihua Mao**, Sihan Chen, Edward Gibson (2024). Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model. *Memory and Cognition* (In press). [Manuscript](https://drive.google.com/file/d/1WIAd69J_L-6Tr5ymlA-gOrsuk2xQnLTR/view?usp=sharing)
 
 - **Ruihua Mao**, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses. *Cognition* (Under Revision). [Manuscript](https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link)
 
 - **Ruihua Mao**, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). Extraction from subjects and objects in Chinese. (In preparation)
 </div>
----
+
 
 ### Conference Presentations
 
