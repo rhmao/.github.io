@@ -24,11 +24,11 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 
 
 ---
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <h2 id="research-output">Research Output</h2> 
 
-## 📚 Journal Articles
+## Journal Articles
 
 - **Ruihua Mao**, Sihan Chen, Edward Gibson (2024).  
   Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model.  
@@ -42,7 +42,7 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
   Extraction from subjects and objects in Chinese. (In preparation)
 
 
-## 🎤 Conference Presentations
+## Conference Presentations
 
 - Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022).  
   Acceptability of extraction out of English adjunct clauses: the role of topicalization [Poster Presentation].  
@@ -64,15 +64,14 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
   The Discourse Function Explains "Islands".  
   *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
 ---
-<br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br>
 <h2 id="teaching">Teaching</h2>
 
 - **Advanced Experimental Syntax** (Master level; Co-taught with Dr. Anne Abeillé; 2024 Spring)  
 - **Advanced Experimental Syntax** (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
 
 ---
-<br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 <h2 id="awards">Awards and Grants</h2>
 
