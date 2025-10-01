@@ -20,22 +20,20 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 <br><br>
 
 <h2 id="research-output">Research Output</h2> 
-## Journal Articles
-<div class="journal-list">
+### Journal Articles
 
+<ul class="journal-list">
+<li><strong>Ruihua Mao</strong>, Sihan Chen, Edward Gibson (2024).  
+Decoding the Implausible...  
+<em>Memory and Cognition</em> (In press). [Manuscript]</li>
 
-- **Ruihua Mao**, Sihan Chen, Edward Gibson (2024).  
-  Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model.  
-  *Memory and Cognition* (In press). [Manuscript](https://drive.google.com/file/d/1WIAd69J_L-6Tr5ymlA-gOrsuk2xQnLTR/view?usp=sharing)
+<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
+How Strong are “Strong” Islands? ...</li>
 
-- **Ruihua Mao**, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
-  How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses.  
-  *Cognition* (Under Revision). [Manuscript](https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link)
+<li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
+Extraction from subjects and objects in Chinese. (In preparation)</li>
+</ul>
 
-- **Ruihua Mao**, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025).  
-  Extraction from subjects and objects in Chinese. (In preparation)
-
-</div>
 ## Conference Presentations
 
 - Anne Abeillé, Barbara Hemforth, **Ruihua Mao**, Edward Gibson (2022).  
