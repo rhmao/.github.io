@@ -10,7 +10,7 @@ redirect_from:
 
 <h2 id="about-me">About Me</h2>
 
-I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 13, 2025) at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*, supervised by [**Dr. Anne Abeillé**](<http://www.llf.cnrs.fr/fr/Gens/Abeille>) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité), and [**Dr. Edward Gibson**](https://tedlab.mit.edu/ted.html) (Massachusetts Institute of Technology).
+I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 13, 2025) at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*, supervised by [**Dr. Anne Abeillé**](<http://www.llf.cnrs.fr/fr/Gens/Abeille>) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité), and [**Dr. Edward Gibson**](https://tedlab.mit.edu/ted.html) (Massachusetts Institute of Technology). Before coming to Paris, I obtained my master’s degree in Language Studies at City University of Hong Kong. I then worked as a research associate and research assistant at several universities in Hong Kong, conducting research in experimental semantics and developmental psychology.
 
 
 ### Research Interests
@@ -21,7 +21,7 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 1
 
 ### Non-degree Programs
 
-- **Visiting Student**, Department of Brain & Cognitive Science, MIT, Feb 2023-July 2023 <br>
+- **Visiting Student**, Department of Brain & Cognitive Science, Massachusetts Institute of Technology, Feb 2023-July 2023 <br>
     *Supervisor: Dr. Edward Gibson*  
 - **Introduction to Bayesian Statistics**, Summer School on Statistical Methods for Linguistics and Psychology.<br>
    University of Potsdam, Germany *(Sep 2024)*
