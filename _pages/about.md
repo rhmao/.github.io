@@ -74,3 +74,4 @@ Extraction from subjects and objects in Chinese. (In preparation)</li>
 - **Labex EFL Mobility Grant**, Université Paris Cité — *€3,500* (2022)  
 - **University First Class Scholarship** — (2016–2017)  
 - **University Second Class Scholarship** — (2014–2015)
+# trigger rebuild 2025-10-01
