@@ -15,7 +15,10 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 
 
 ### Research Interests
+<div class="justify-text">
 • Psycholinguistics  • Experimental syntax  • Information theory  • Language development
+</div>
+
 ---
 <br><br><br><br>
 
