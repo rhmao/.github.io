@@ -20,8 +20,9 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 <br><br>
 
 <h2 id="research-output">Research Output</h2> 
-<div class="journal-list">
 ## Journal Articles
+<div class="journal-list">
+
 
 - **Ruihua Mao**, Sihan Chen, Edward Gibson (2024).  
   Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model.  
