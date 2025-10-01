@@ -17,13 +17,14 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 1
 <div class="justify-text">
 • Psycholinguistics  • Experimental syntax  • Information theory  • Language development
 </div>
-
+<br><br>
 
 ### Non-degree Programs
 
 - **Visiting Student**, Department of Brain & Cognitive Science, MIT, Feb 2023-July 2023 <br>
     *Supervisor: Dr. Edward Gibson*  
-- **Introduction to Bayesian Statistics**, Summer School on Statistical Methods for Linguistics and Psychology. University of Potsdam, Germany *(Sep 2024)*
+- **Introduction to Bayesian Statistics**, Summer School on Statistical Methods for Linguistics and Psychology.<br>
+   University of Potsdam, Germany *(Sep 2024)*
 - **LSA Summer Institute**. Amherst, USA *(Jul 2023)*
 - **Birmingham Statistics for Linguistics Summer School**. Birmingham, UK *(Jul 2022)*
 - **The Python4NLP Summer School**. Nancy, France *(May 2022)*
