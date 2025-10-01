@@ -120,23 +120,23 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.card {
+/* 卡片化 Markdown 列表项 */
+.page__content ul > li {
   background: #f9f9f9;
   padding: 15px 20px;
   border-radius: 12px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  list-style-type: none;  /* 去掉默认圆点 */
 }
 
-.card:hover {
+.page__content ul > li:hover {
   transform: translateY(-2px);
+  transition: all 0.2s ease;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 
-.card p {
-  margin: 0;
-  font-size: 16px;
-  line-height: 1.6;
+.page__content ul {
+  padding-left: 0; /* 去掉左缩进 */
 }
 
