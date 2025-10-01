@@ -16,15 +16,8 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
 
 ### Research Interests
 • Psycholinguistics • Experimental syntax • Information theory • Language development
-
-
-
-
-
-
-
 ---
-<br><br><br><br><br>
+<br><br>
 
 <h2 id="research-output">Research Output</h2> 
 
@@ -64,14 +57,14 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Ling
   The Discourse Function Explains "Islands".  
   *Proceedings of the 30th Architectures and Mechanisms for Language Processing (AMLaP)* [Poster].
 ---
-<br><br><br><br><br>
+<br>
 <h2 id="teaching">Teaching</h2>
 
 - **Advanced Experimental Syntax** (Master level; Co-taught with Dr. Anne Abeillé; 2024 Spring)  
 - **Advanced Experimental Syntax** (Master level; Teaching assistant for Dr. Anne Abeillé; 2025 Spring)
 
 ---
-<br><br><br>
+<br>
 
 <h2 id="awards">Awards and Grants</h2>
 
