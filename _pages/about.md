@@ -23,7 +23,10 @@ Before moving to Paris, I studied and worked in **Hong Kong**, conducting resear
 
 ### Research Interests
 <div class="justify-text">
-• Psycholinguistics  • Experimental syntax  • Information theory  • Language development
+• Psycholinguistics  
+• Experimental syntax  
+• Information theory  
+• Language development
 </div>
 
 <br>
