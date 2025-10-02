@@ -10,7 +10,19 @@ redirect_from:
 
 <h2 id="about-me">About Me</h2>
 
-I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 13, 2025) at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*, supervised by [**Dr. Anne Abeillé**](<http://www.llf.cnrs.fr/fr/Gens/Abeille>) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité), and [**Dr. Edward Gibson**](https://tedlab.mit.edu/ted.html) (Massachusetts Institute of Technology). Before coming to Paris, I obtained my master’s degree in Language Studies at City University of Hong Kong. I then worked as a research associate and research assistant at several universities in Hong Kong, conducting research in experimental semantics and developmental psychology.
+
+I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*.  
+I am supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité), and [**Dr. Edward Gibson**](https://tedlab.mit.edu/ted.html) (Massachusetts Institute of Technology).  
+
+My PhD dissertation, titled *“Meaning-based Approaches to Locality Constraints: Extraction from English and Chinese Adjuncts and Subjects”*, is scheduled for defense on **October 13, 2025**.  
+
+In 2023, I spent a semester at the **TedLab** at MIT, where I conducted research on noisy channel processing in Mandarin Chinese.  
+
+Before moving to Paris, I studied and worked in **Hong Kong**, conducting research on:  
+
+- **Second language acquisition**: island constraints  
+- **Experimental semantics**: quantifier scope in Mandarin Chinese  
+- **Developmental psychology**: executive functioning and reading comprehension 
 
 
 ### Research Interests
@@ -18,6 +30,7 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 1
 • Psycholinguistics  • Experimental syntax  • Information theory  • Language development
 </div>
 
+<br>
 
 ### Non-degree Programs
 
@@ -28,7 +41,7 @@ I am **Ruihua Mao**, a PhD researcher in Linguistics (defense scheduled on Oct 1
 - **LSA Summer Institute**. Amherst, USA *(Jul 2023)*
 - **Birmingham Statistics for Linguistics Summer School**. Birmingham, UK *(Jul 2022)*
 - **The Python4NLP Summer School**. Nancy, France *(May 2022)*
-
+<br><br>
 
 ### Contact
 
@@ -41,11 +54,9 @@ For research discussions or collaboration inquiries, please contact me at [ruihu
   </p>
 </div>
 
-
+<br><br><br>
 
 ---
-<br><br><br><br>
-
 <h2 id="research-output">Research Output</h2> 
 
 ### 📚 Journal Articles
