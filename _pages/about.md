@@ -12,11 +12,11 @@ redirect_from:
 
 
 I am **Ruihua Mao**, a PhD researcher in Linguistics at the *Laboratoire de Linguistique Formelle*, *Université Paris Cité*.  
-I am supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité), and [**Dr. Edward Gibson**](https://tedlab.mit.edu/ted.html) (Massachusetts Institute of Technology).  
+I am supervised by [**Dr. Anne Abeillé**](http://www.llf.cnrs.fr/fr/Gens/Abeille) (Université Paris Cité), [**Dr. Barbara Hemforth**](http://www.llf.cnrs.fr/fr/Gens/Hemforth) (CNRS, Université Paris Cité), and [**Dr. Edward Gibson**](https://bcs.mit.edu/directory/edward-gibson) (Massachusetts Institute of Technology).  
 
 My PhD dissertation, titled *“Meaning-based Approaches to Locality Constraints: Extraction from English and Chinese Adjuncts and Subjects”*, is scheduled for defense on **October 13, 2025**.  
 
-In 2023, I spent a semester at the **TedLab** at MIT, where I conducted research on noisy channel processing in Mandarin Chinese.  
+In 2023, I spent a semester at the [**TedLab**](https://tedlab.mit.edu/) at MIT, where I conducted research on noisy channel processing in Mandarin Chinese.  
 
 Before moving to Paris, I studied and worked in **Hong Kong**, conducting research on:  
 
