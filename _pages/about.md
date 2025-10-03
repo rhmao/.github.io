@@ -66,7 +66,7 @@ For research discussions or collaboration inquiries, please contact me at [ruihu
 ### 📚 Journal Articles
 
 <ul class="journal-list">
-<li><strong>Ruihua Mao</strong>, Sihan Chen, Edward Gibson (2024). Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model. <em>Memory and Cognition</em> (In press). <a href="https://drive.google.com/file/d/1WIAd69J_L-6Tr5ymlA-gOrsuk2xQnLTR/view?usp=sharing">[Manuscript]</a></li>
+<li><strong>Ruihua Mao</strong>, Sihan Chen, Edward Gibson (2024). Decoding the Implausible: Mandarin Sentence Interpretation through the Noisy Channel Model. <em>Memory and Cognition</em> (In press). <a href="https://rhmao.github.io/assets/papers/mandarin%20noisy%20channel.pdf">[Manuscript]</a></li>
 
 <li><strong>Ruihua Mao</strong>, Anne Abeillé, Edward Gibson, Barbara Hemforth (2025). How Strong are “Strong” Islands? Discourse constraints best explain long-distance extraction from English adjunct clauses. <em>Cognition</em> (Under Revision). <a href="https://drive.google.com/file/d/1c1BmYLJfVu70xcKtZvrq4Ln-xHAhFjNw/view?usp=share_link">[Manuscript]</a></li>
 
